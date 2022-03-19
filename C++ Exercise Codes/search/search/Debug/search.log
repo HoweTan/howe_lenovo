@@ -1,4 +1,0 @@
-﻿  search.cpp
-g:\desktop documents\c++ exercise codes\search\search\search.cpp(16): warning C4715: “binarysearch”: 不是所有的控件路径都返回值
-  search.vcxproj -> G:\Desktop Documents\C++ Exercise Codes\search\Debug\search.exe
-  search.vcxproj -> G:\Desktop Documents\C++ Exercise Codes\search\Debug\search.pdb (Full PDB)

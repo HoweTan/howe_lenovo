@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : 对路径“g:\desktop documents\c++ exercise codes\最小奖金\debug\最小奖金.exe”的访问被拒绝。
-  stdafx.cpp
-  最小奖金.cpp
-LINK : fatal error LNK1104: 无法打开文件“G:\Desktop Documents\C++ Exercise Codes\最小奖金\Debug\最小奖金.exe”
