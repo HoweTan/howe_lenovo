@@ -1,0 +1,4 @@
+﻿  bitmoney.cpp
+g:\desktop documents\c++ exercise codes\bitmoney\bitmoney\bitmoney.cpp(11): warning C4101: “temp”: 未引用的局部变量
+  bitmoney.vcxproj -> G:\Desktop Documents\C++ Exercise Codes\bitmoney\Debug\bitmoney.exe
+  bitmoney.vcxproj -> G:\Desktop Documents\C++ Exercise Codes\bitmoney\Debug\bitmoney.pdb (Full PDB)

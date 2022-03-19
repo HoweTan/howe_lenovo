@@ -1,0 +1,6 @@
+﻿  逆序对.cpp
+g:\desktop documents\c++ exercise codes\逆序对\逆序对\逆序对.cpp(15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\desktop documents\c++ exercise codes\逆序对\逆序对\逆序对.cpp(36): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+g:\desktop documents\c++ exercise codes\逆序对\逆序对\逆序对.cpp(38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  逆序对.vcxproj -> G:\Desktop Documents\C++ Exercise Codes\逆序对\Debug\逆序对.exe
+  逆序对.vcxproj -> G:\Desktop Documents\C++ Exercise Codes\逆序对\Debug\逆序对.pdb (Full PDB)

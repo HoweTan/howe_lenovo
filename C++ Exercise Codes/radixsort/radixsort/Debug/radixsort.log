@@ -1,0 +1,2 @@
+﻿  radixsort.cpp
+g:\desktop documents\c++ exercise codes\radixsort\radixsort\radixsort.cpp(23): error C3892: “data”: 不能给常量赋值

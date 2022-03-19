@@ -1,0 +1,6 @@
+﻿  浮点大数相加.cpp
+g:\desktop documents\c++ exercise codes\浮点大数相加\浮点大数相加\浮点大数相加.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+g:\desktop documents\c++ exercise codes\浮点大数相加\浮点大数相加\浮点大数相加.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+g:\desktop documents\c++ exercise codes\浮点大数相加\浮点大数相加\浮点大数相加.cpp(29): warning C4715: “get_dot_pos”: 不是所有的控件路径都返回值
+  浮点大数相加.vcxproj -> G:\Desktop Documents\C++ Exercise Codes\浮点大数相加\Debug\浮点大数相加.exe
+  浮点大数相加.vcxproj -> G:\Desktop Documents\C++ Exercise Codes\浮点大数相加\Debug\浮点大数相加.pdb (Full PDB)
